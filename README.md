@@ -12,10 +12,22 @@
 
 ## 2022 赛季
 
+### 比赛录像
+
+|                                  信号源                                  |                                   微力同步密钥                                    |
+| :----------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+|  ![SkySports_UHD](https://img.shields.io/badge/SkySports-UHD-gold) :gb:  |              B4JQXDOK2IELESYLYUW4EZPACTWR7MOIS3Q5WATVCU3QPNPDYPZDPQ               |
+|  ![SkySports_FHD](https://img.shields.io/badge/SkySports-FHD-blue) :gb:  |              B4ALQFLLRUN43435CL6RVCWFMGQ5IMMF7EY2LQH6RLT67QBRFQU54Q               |
+|   ![F1TV_PRO_FHD](https://img.shields.io/badge/F1TV_PRO-FHD-blue) :gb:    |              B4LUQA3EMJ6TJBOPCBBEJ52WZZE7OVQMI2DFIKQ4KI625QM472WN4Q               |
+| ![天翼超高清_UHD](https://img.shields.io/badge/天翼超高清-UHD-gold) :cn: |              B4Q4GHP2BXL6JOIWGQQAE22VMZSEVQIYP4HFVN4QHGBGGZSRHZF5VQ               |
+| ![天翼超高清_UHD](https://img.shields.io/badge/天翼超高清-UHD-gold) :cn: | [在线观看](https://space.bilibili.com/175358/channel/collectiondetail?sid=754362) |
+
+### 比赛信息
+
 | 0️⃣                                                     | 1️⃣                                                                    | 2️⃣                                                          | 3️⃣                                                         | 4️⃣                                                       |
 | ------------------------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------- |
 | 🟢 :bahrain: [巴林大奖赛](/races/2022/R01.README.md)   | 🔴 :saudi_arabia: [沙特阿拉伯大奖赛](/races/2022/R02.README.md)       | 🔴 :australia: [澳大利亚大奖赛](/races/2022/R03.README.md)  | 🔴 :it: [艾米利亚-罗马涅大奖赛](/races/2022/R04.README.md) | 🔴 :us: [迈阿密大奖赛](/races/2022/R05.README.md)        |
 | 🔴 :es: [西班牙大奖赛](/races/2022/R06.README.md)      | 🔴 :monaco: [摩纳哥大奖赛](/races/2022/R07.README.md)                 | 🔴 :azerbaijan: [阿塞拜疆大奖赛](/races/2022/R08.README.md) | 🔴 :canada: [加拿大大奖赛](/races/2022/R09.README.md)      | 🔴 :gb: [英国大奖赛](/races/2022/R10.README.md)          |
 | 🔴 :austria: [奥地利大奖赛](/races/2022/R11.README.md) | 🔴 :fr: [法国大奖赛](/races/2022/R12.README.md)                       | 🔴 :hungary: [匈牙利大奖赛](/races/2022/R13.README.md)      | 🔴 :belgium: [比利时大奖赛](/races/2022/R14.README.md)     | 🔴 :netherlands: [荷兰大奖赛](/races/2022/R15.README.md) |
-| 🟢 :it: [意大利大奖赛](/races/2022/R16.README.md)      | 🟢 :singapore: [新加坡大奖赛](/races/2022/R17.README.md)              | 🟡 :jp: [日本大奖赛](/races/2022/R18.README.md)             | 🔴 :us: [美国大奖赛](/races/2022/R19.README.md)            | 🔴 :mexico: [墨西哥大奖赛](/races/2022/R20.README.md)    |
+| 🟢 :it: [意大利大奖赛](/races/2022/R16.README.md)      | 🟢 :singapore: [新加坡大奖赛](/races/2022/R17.README.md)              | 🟢 :jp: [日本大奖赛](/races/2022/R18.README.md)             | 🔴 :us: [美国大奖赛](/races/2022/R19.README.md)            | 🔴 :mexico: [墨西哥大奖赛](/races/2022/R20.README.md)    |
 | 🔴 :brazil: [巴西大奖赛](/races/2022/R21.README.md)    | 🔴 :united_arab_emirates: [阿布扎比大奖赛](/races/2022/R22.README.md) |
