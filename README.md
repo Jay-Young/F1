@@ -12,6 +12,29 @@
 
 ## 2022 赛季
 
+- 获取直播间 cid
+
+```bash
+curl "http://h5.nty.tv189.com/api/portal/act/yylist?startTime=20221022030000&endTime=20221024050000" -H 'Cookie: c_t_id=******打码******;'
+#c_t_id 值即登陆后的 token, 浏览器有效期为一个月, 不加登录 token 返回错误
+#startTime 和 endTime 随意只要符合格式要求即可, 返回的似乎必然是当前站的直播信息
+```
+
+```json
+//预期返回结果示例
+{
+	"code": 0,
+	"data": [
+		{
+			"appointId": "C8000000000000000001661750675248", //直播间 cid
+			"startTime": "2022-10-22 03:00:00",
+			"endTime": "2022-10-22 04:10:00"
+		}
+	],
+	"total": 1
+}
+```
+
 - 美国站电信直播: <http://h5.nty.tv189.com/zt/zt2022/sport-live?cid=C8000000000000000001661750675248>
 
 - 1080p 抓流
@@ -21,7 +44,7 @@ curl "http://h5.nty.tv189.com/zt/api/liveroomplay" -d 'liveid=C80000000000000000
 ```
 
 ```json
-预期返回结果示例：
+//预期返回结果示例
 {
   "code": 0,
   "info": "http:\/\/liveplay.ctx.tv189.com\/live\/f1zb-4000k.m3u8?sign=&sid=C8000000000000000001661750675248&msisdn=40000000000&spid=&timestamp=20221020072343&H=115010310149&channelid=01833310&nodeid=&videotype=1&encrypt=******打码******&ua=30&nettype=12&imsi=&guid=******打码******&playseek=1",
@@ -29,7 +52,7 @@ curl "http://h5.nty.tv189.com/zt/api/liveroomplay" -d 'liveid=C80000000000000000
 }
 ```
 
-- 4K 抓流: 手机上装抓流工具从天翼超高清app中抓取
+- 4K 抓流: 手机上装抓包工具从天翼超高清app中抓取
 
 ### 比赛录像
 
