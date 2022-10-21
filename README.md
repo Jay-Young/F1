@@ -52,7 +52,11 @@ curl "http://h5.nty.tv189.com/zt/api/liveroomplay" -d 'liveid=C80000000000000000
 }
 ```
 
-- 4K 抓流: 手机上装抓包工具从天翼超高清app中抓取
+- 4K 抓流: 手机上装抓包工具从天翼超高清app中抓取, 本周直播信号不需要鉴权
+
+```markdown
+http://liveplay.ctx.tv189.com/live/f1zb4k-8m.m3u8?sign=&sid=C8000000000000000001661750980383
+```
 
 ### 比赛录像
 
