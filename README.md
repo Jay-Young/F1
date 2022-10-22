@@ -12,26 +12,108 @@
 
 ## 2022 赛季
 
-- 获取直播间 cid
+### 电信直播
+
+- 获取直播间信息
 
 ```bash
-curl "http://h5.nty.tv189.com/api/portal/act/yylist?startTime=20221022030000&endTime=20221024050000" -H 'Cookie: c_t_id=******打码******;'
-#c_t_id 值即登陆后的 token, 浏览器有效期为一个月, 不加登录 token 返回错误
-#startTime 和 endTime 随意只要符合格式要求即可, 返回的似乎必然是当前站的直播信息
+curl "http://h5.nty.tv189.com/api/activity/getcpms?path=/clt4/xtysxkhd/tjysyqd/F1zhibojian/index.json"
 ```
 
 ```json
-//预期返回结果示例
+//预期返回结果示例, 已经 Unicode 解码并格式化
 {
-	"code": 0,
 	"data": [
 		{
-			"appointId": "C8000000000000000001661750675248", //直播间 cid
-			"startTime": "2022-10-22 03:00:00",
-			"endTime": "2022-10-22 04:10:00"
+			"item": [
+				{
+					"leftName": "F1美国大奖赛",
+					"cover": "https://tp.nty.tv189.com/image/tmpl/2022/10/18/7009357344.jpg",
+					"descriptionText": "F1美国大奖赛",
+					"endTime": "2022-10-22 04:10:00",
+					"clickParam": "1",
+					"startTime": "2022-10-22 03:00:00",
+					"leftIcon": "https://tp.nty.tv189.com/image/tmpl/2022/09/08/7009346872.png",
+					"title": "第一阶段练习赛",
+					"clickType": 32,
+					"type": 1,
+					"liveId": "C8000000000000000001661750675248"
+				},
+				{
+					"leftName": "F1美国大奖赛",
+					"cover": "https://tp.nty.tv189.com/image/tmpl/2022/10/18/7009357344.jpg",
+					"descriptionText": "F1美国大奖赛",
+					"endTime": "2022-10-22 07:40:00",
+					"clickParam": "1",
+					"startTime": "2022-10-22 06:00:00",
+					"leftIcon": "https://tp.nty.tv189.com/image/tmpl/2022/09/08/7009346872.png",
+					"title": "第二阶段练习赛",
+					"clickType": 32,
+					"type": 1,
+					"liveId": "C8000000000000000001661750675248"
+				}
+			],
+			"time": "2022-10-22 03:00:00"
+		},
+		{
+			"item": [
+				{
+					"leftName": "F1美国大奖赛",
+					"cover": "https://tp.nty.tv189.com/image/tmpl/2022/10/18/7009357344.jpg",
+					"descriptionText": "F1美国大奖赛",
+					"endTime": "2022-10-23 04:10:00",
+					"clickParam": "1",
+					"startTime": "2022-10-23 03:00:00",
+					"leftIcon": "https://tp.nty.tv189.com/image/tmpl/2022/09/08/7009346872.png",
+					"title": "第三阶段练习赛",
+					"clickType": 32,
+					"type": 1,
+					"liveId": "C8000000000000000001661750675248"
+				},
+				{
+					"leftName": "F1美国大奖赛",
+					"cover": "https://tp.nty.tv189.com/image/tmpl/2022/10/18/7009357344.jpg",
+					"descriptionText": "F1美国大奖赛",
+					"endTime": "2022-10-23 07:10:00",
+					"clickParam": "1",
+					"startTime": "2022-10-23 06:00:00",
+					"leftIcon": "https://tp.nty.tv189.com/image/tmpl/2022/09/08/7009346872.png",
+					"title": "排位赛",
+					"clickType": 32,
+					"type": 1,
+					"liveId": "C8000000000000000001661750675248"
+				}
+			],
+			"time": "2022-10-23 03:00:00"
+		},
+		{
+			"item": [
+				{
+					"leftName": "F1美国大奖赛",
+					"cover": "https://tp.nty.tv189.com/image/tmpl/2022/10/18/7009357344.jpg",
+					"descriptionText": "F1美国大奖赛",
+					"endTime": "2022-10-24 05:20:00",
+					"clickParam": "1",
+					"startTime": "2022-10-24 03:00:00",
+					"leftIcon": "https://tp.nty.tv189.com/image/tmpl/2022/09/08/7009346872.png",
+					"title": "正赛",
+					"clickType": 32,
+					"type": 1,
+					"score": " ",
+					"liveId": "C8000000000000000001661750980383"
+				}
+			],
+			"time": "2022-10-24 03:00:00"
 		}
 	],
-	"total": 1
+	"block": 7,
+	"type": 1,
+	"images": [
+		{
+			"imageUrl": "https://tp.nty.tv189.com/image/tmpl/2022/06/09/7009328301.png"
+		}
+	],
+	"chGroup": "CN_024"
 }
 ```
 
@@ -46,13 +128,13 @@ curl "http://h5.nty.tv189.com/zt/api/liveroomplay" -d 'liveid=C80000000000000000
 ```json
 //预期返回结果示例
 {
-  "code": 0,
-  "info": "http:\/\/liveplay.ctx.tv189.com\/live\/f1zb-4000k.m3u8?sign=&sid=C8000000000000000001661750675248&msisdn=40000000000&spid=&timestamp=20221020072343&H=115010310149&channelid=01833310&nodeid=&videotype=1&encrypt=******打码******&ua=30&nettype=12&imsi=&guid=******打码******&playseek=1",
-  "authresp": []
+	"code": 0,
+	"info": "http://liveplay.ctx.tv189.com/live/f1zb-4000k.m3u8?sign=&sid=C8000000000000000001661750675248&msisdn=40000000000&spid=&timestamp=20221020072343&H=115010310149&channelid=01833310&nodeid=&videotype=1&encrypt=******打码******&ua=30&nettype=12&imsi=&guid=******打码******&playseek=1",
+	"authresp": []
 }
 ```
 
-- 4K 抓流: 手机上装抓包工具从天翼超高清app中抓取, 本周直播信号不需要鉴权
+- 4K 抓流: 手机上装抓包工具从天翼超高清 app 中抓取, 本周直播信号不需要鉴权
 
 ```markdown
 http://liveplay.ctx.tv189.com/live/f1zb4k-8m.m3u8?sign=&sid=C8000000000000000001661750980383
@@ -72,8 +154,8 @@ http://liveplay.ctx.tv189.com/live/f1zb4k-8m.m3u8?sign=&sid=C8000000000000000001
 
 | 0️⃣                                                     | 1️⃣                                                                    | 2️⃣                                                          | 3️⃣                                                         | 4️⃣                                                       |
 | ------------------------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------- |
-| 🟢 :bahrain: [巴林大奖赛](/races/2022/R01.README.md)   | 🟢 :saudi_arabia: [沙特阿拉伯大奖赛](/races/2022/R02.README.md)       | 🟢 :australia: [澳大利亚大奖赛](/races/2022/R03.README.md)  | 🟢 :it: [艾米利亚-罗马涅大奖赛](/races/2022/R04.README.md) | 🔴 :us: [迈阿密大奖赛](/races/2022/R05.README.md)        |
-| 🔴 :es: [西班牙大奖赛](/races/2022/R06.README.md)      | 🔴 :monaco: [摩纳哥大奖赛](/races/2022/R07.README.md)                 | 🔴 :azerbaijan: [阿塞拜疆大奖赛](/races/2022/R08.README.md) | 🔴 :canada: [加拿大大奖赛](/races/2022/R09.README.md)      | 🔴 :gb: [英国大奖赛](/races/2022/R10.README.md)          |
+| 🟢 :bahrain: [巴林大奖赛](/races/2022/R01.README.md)   | 🟢 :saudi_arabia: [沙特阿拉伯大奖赛](/races/2022/R02.README.md)       | 🟢 :australia: [澳大利亚大奖赛](/races/2022/R03.README.md)  | 🟢 :it: [艾米利亚-罗马涅大奖赛](/races/2022/R04.README.md) | 🟢 :us: [迈阿密大奖赛](/races/2022/R05.README.md)        |
+| 🟢 :es: [西班牙大奖赛](/races/2022/R06.README.md)      | 🔴 :monaco: [摩纳哥大奖赛](/races/2022/R07.README.md)                 | 🔴 :azerbaijan: [阿塞拜疆大奖赛](/races/2022/R08.README.md) | 🔴 :canada: [加拿大大奖赛](/races/2022/R09.README.md)      | 🔴 :gb: [英国大奖赛](/races/2022/R10.README.md)          |
 | 🔴 :austria: [奥地利大奖赛](/races/2022/R11.README.md) | 🔴 :fr: [法国大奖赛](/races/2022/R12.README.md)                       | 🔴 :hungary: [匈牙利大奖赛](/races/2022/R13.README.md)      | 🔴 :belgium: [比利时大奖赛](/races/2022/R14.README.md)     | 🔴 :netherlands: [荷兰大奖赛](/races/2022/R15.README.md) |
 | 🟢 :it: [意大利大奖赛](/races/2022/R16.README.md)      | 🟢 :singapore: [新加坡大奖赛](/races/2022/R17.README.md)              | 🟢 :jp: [日本大奖赛](/races/2022/R18.README.md)             | 🟡 :us: [美国大奖赛](/races/2022/R19.README.md)            | 🔴 :mexico: [墨西哥大奖赛](/races/2022/R20.README.md)    |
 | 🔴 :brazil: [巴西大奖赛](/races/2022/R21.README.md)    | 🔴 :united_arab_emirates: [阿布扎比大奖赛](/races/2022/R22.README.md) |
