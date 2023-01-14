@@ -10,145 +10,18 @@
 
 ## 2022 赛季
 
-### 电信直播
+### 极速求生 第 5 季
 
-- 获取直播间信息
+Netflix 2023 年 2 月 24 日上线
 
-```bash
-curl "http://h5.nty.tv189.com/api/activity/getcpms?path=/clt4/xtysxkhd/tjysyqd/F1zhibojian/index.json"
-```
-
-<details>
-<summary>响应结果👈点我查看</summary>
-
-```json
-//响应结果示例, 已经 Unicode 解码并格式化
-{
-	"data": [
-		{
-			"item": [
-				{
-					"leftName": "F1美国大奖赛",
-					"cover": "https://tp.nty.tv189.com/image/tmpl/2022/10/18/7009357344.jpg",
-					"descriptionText": "F1美国大奖赛",
-					"endTime": "2022-10-22 04:10:00",
-					"clickParam": "1",
-					"startTime": "2022-10-22 03:00:00",
-					"leftIcon": "https://tp.nty.tv189.com/image/tmpl/2022/09/08/7009346872.png",
-					"title": "第一阶段练习赛",
-					"clickType": 32,
-					"type": 1,
-					"liveId": "C8000000000000000001661750675248"
-				},
-				{
-					"leftName": "F1美国大奖赛",
-					"cover": "https://tp.nty.tv189.com/image/tmpl/2022/10/18/7009357344.jpg",
-					"descriptionText": "F1美国大奖赛",
-					"endTime": "2022-10-22 07:40:00",
-					"clickParam": "1",
-					"startTime": "2022-10-22 06:00:00",
-					"leftIcon": "https://tp.nty.tv189.com/image/tmpl/2022/09/08/7009346872.png",
-					"title": "第二阶段练习赛",
-					"clickType": 32,
-					"type": 1,
-					"liveId": "C8000000000000000001661750675248"
-				}
-			],
-			"time": "2022-10-22 03:00:00"
-		},
-		{
-			"item": [
-				{
-					"leftName": "F1美国大奖赛",
-					"cover": "https://tp.nty.tv189.com/image/tmpl/2022/10/18/7009357344.jpg",
-					"descriptionText": "F1美国大奖赛",
-					"endTime": "2022-10-23 04:10:00",
-					"clickParam": "1",
-					"startTime": "2022-10-23 03:00:00",
-					"leftIcon": "https://tp.nty.tv189.com/image/tmpl/2022/09/08/7009346872.png",
-					"title": "第三阶段练习赛",
-					"clickType": 32,
-					"type": 1,
-					"liveId": "C8000000000000000001661750675248"
-				},
-				{
-					"leftName": "F1美国大奖赛",
-					"cover": "https://tp.nty.tv189.com/image/tmpl/2022/10/18/7009357344.jpg",
-					"descriptionText": "F1美国大奖赛",
-					"endTime": "2022-10-23 07:10:00",
-					"clickParam": "1",
-					"startTime": "2022-10-23 06:00:00",
-					"leftIcon": "https://tp.nty.tv189.com/image/tmpl/2022/09/08/7009346872.png",
-					"title": "排位赛",
-					"clickType": 32,
-					"type": 1,
-					"liveId": "C8000000000000000001661750675248"
-				}
-			],
-			"time": "2022-10-23 03:00:00"
-		},
-		{
-			"item": [
-				{
-					"leftName": "F1美国大奖赛",
-					"cover": "https://tp.nty.tv189.com/image/tmpl/2022/10/18/7009357344.jpg",
-					"descriptionText": "F1美国大奖赛",
-					"endTime": "2022-10-24 05:20:00",
-					"clickParam": "1",
-					"startTime": "2022-10-24 03:00:00",
-					"leftIcon": "https://tp.nty.tv189.com/image/tmpl/2022/09/08/7009346872.png",
-					"title": "正赛",
-					"clickType": 32,
-					"type": 1,
-					"score": " ",
-					"liveId": "C8000000000000000001661750980383"
-				}
-			],
-			"time": "2022-10-24 03:00:00"
-		}
-	],
-	"block": 7,
-	"type": 1,
-	"images": [
-		{
-			"imageUrl": "https://tp.nty.tv189.com/image/tmpl/2022/06/09/7009328301.png"
-		}
-	],
-	"chGroup": "CN_024"
-}
-```
-
-</details>
-
-- 直播间: <http://h5.nty.tv189.com/zt/zt2022/sport-live?cid=C8000000000000000001661750675248>
-
-- 1080p 抓流
-
-```bash
-curl "http://h5.nty.tv189.com/zt/api/liveroomplay" -d 'liveid=C8000000000000000001661750675248'
-```
-
-```json
-//响应结果示例
-{
-	"code": 0,
-	"info": "http://liveplay.ctx.tv189.com/live/f1zb-4000k.m3u8?sign=&sid=C8000000000000000001661750675248&msisdn=40000000000&spid=&timestamp=20221020072343&H=115010310149&channelid=01833310&nodeid=&videotype=1&encrypt=******打码******&ua=30&nettype=12&imsi=&guid=******打码******&playseek=1",
-	"authresp": []
-}
-```
-
-- 4K 抓流: 手机上装抓包工具从天翼超高清 app 中抓取, 本周直播信号不需要鉴权
-
-```markdown
-http://liveplay.ctx.tv189.com/live/f1zb4k-8m.m3u8?sign=&sid=C8000000000000000001661750980383
-```
+[预告片](https://www.bilibili.com/video/BV1p8411A7y7/)
 
 ### 比赛录像
 
 |                                  信号源                                  |                                   微力同步密钥                                    |
 | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-|  ![SkySports_UHD](https://img.shields.io/badge/SkySports-UHD-gold) :gb:  |              B4JQXDOK2IELESYLYUW4EZPACTWR7MOIS3Q5WATVCU3QPNPDYPZDPQ               |
-|  ![SkySports_FHD](https://img.shields.io/badge/SkySports-FHD-blue) :gb:  |              B4ALQFLLRUN43435CL6RVCWFMGQ5IMMF7EY2LQH6RLT67QBRFQU54Q               |
+|  ![SkySports_UHD](https://img.shields.io/badge/SkySports-UHD-gold) :gb:  |              [1DRV](https://zjueducn-my.sharepoint.com/:f:/g/personal/jay_young_zju_edu_cn/EkmcSyk6UTBDoC6y4xirx_oB0TLhesM0KooufkvZBZHrtA?e=Y4psDs)               |
+|  ![SkySports_FHD](https://img.shields.io/badge/SkySports-FHD-blue) :gb:  |              [1DRV](https://zjueducn-my.sharepoint.com/:f:/g/personal/jay_young_zju_edu_cn/EkM5gSNQmjBFoinBfwi04bMBUwf3ZvdPM2UUxN5gxVCMKQ?e=CSxsbF)               |
 |   ![F1TV_PRO_FHD](https://img.shields.io/badge/F1TV_PRO-FHD-blue) :gb:   |              B4LUQA3EMJ6TJBOPCBBEJ52WZZE7OVQMI2DFIKQ4KI625QM472WN4Q               |
 | ![天翼超高清_UHD](https://img.shields.io/badge/天翼超高清-UHD-gold) :cn: |              B4Q4GHP2BXL6JOIWGQQAE22VMZSEVQIYP4HFVN4QHGBGGZSRHZF5VQ               |
 | ![天翼超高清_UHD](https://img.shields.io/badge/天翼超高清-UHD-gold) :cn: | [B 站观看](https://space.bilibili.com/175358/channel/collectiondetail?sid=754362) |
