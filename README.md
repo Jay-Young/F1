@@ -20,7 +20,7 @@
 
 |清晰度|资源链接|说明|
 |:-:|:-:|:-:|
-|![1080P_FHR](https://img.shields.io/badge/1080P-高帧率-blue)|[磁力链接](magnet:?xt=urn:btih:547f3d371840cf81a8b2884e3190ff48e9c2208d)|使用BT下载软件|
+|![1080P_FHR](https://img.shields.io/badge/1080P-高帧率-blue)|magnet:?xt=urn:btih:547f3d371840cf81a8b2884e3190ff48e9c2208d|使用BT下载软件|
 
 ### 比赛录像
 
