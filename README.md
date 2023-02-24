@@ -8,13 +8,19 @@
   <a href="https://weibo.com/jayyoung1"><img src="https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-Weibo-red"></a>
 </p>
 
+## 2023 赛季
+
+|清晰度|链接|说明|
+|:-:|:-:|:-:|
+|![Pre_Season_Test](https://img.shields.io/badge/1080P-高帧率-blue)|[阿里云盘](https://www.aliyundrive.com/s/n6wHoJqHUrL)<br>提取码: gk83|点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，极速在线观看|
+
 ## 2022 赛季
 
 ### 极速求生 第 5 季
 
-Netflix 2023 年 2 月 24 日上线
-
-[预告片](https://www.bilibili.com/video/BV1p8411A7y7/)
+|清晰度|资源链接|说明|
+|:-:|:-:|:-:|
+|![1080P_FHR](https://img.shields.io/badge/1080P-高帧率-blue)|[磁力链接](magnet:?xt=urn:btih:547f3d371840cf81a8b2884e3190ff48e9c2208d)|使用BT下载软件|
 
 ### 比赛录像
 
