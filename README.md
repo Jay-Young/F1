@@ -10,35 +10,38 @@
 
 ## 2023 赛季
 
-|清晰度|链接|说明|
-|:-:|:-:|:-:|
-|![Pre_Season_Test](https://img.shields.io/badge/1080P-高帧率-blue)|[阿里云盘](https://www.aliyundrive.com/s/n6wHoJqHUrL)<br>提取码: gk83|点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，极速在线观看|
+### 收看途径
 
-## 2022 赛季
+[KartCamp](https://kart.camp/): 信号源为 F1TV，速度和延迟应该是最快的，带中文解说。
 
-### 极速求生 第 5 季
-
-|清晰度|资源链接|说明|
-|:-:|:-:|:-:|
-|![1080P_FHR](https://img.shields.io/badge/1080P-高帧率-blue)|magnet:?xt=urn:btih:547f3d371840cf81a8b2884e3190ff48e9c2208d|使用BT下载软件|
+![broadcast](/media/img/broadcast.webp)
 
 ### 比赛录像
 
-|                                  信号源                                  |                                   微力同步密钥                                    |
-| :----------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-|  ![SkySports_UHD](https://img.shields.io/badge/SkySports-UHD-gold) :gb:  |              [1DRV](https://zjueducn-my.sharepoint.com/:f:/g/personal/jay_young_zju_edu_cn/EkmcSyk6UTBDoC6y4xirx_oB0TLhesM0KooufkvZBZHrtA?e=Y4psDs)               |
-|  ![SkySports_FHD](https://img.shields.io/badge/SkySports-FHD-blue) :gb:  |              [1DRV](https://zjueducn-my.sharepoint.com/:f:/g/personal/jay_young_zju_edu_cn/EkM5gSNQmjBFoinBfwi04bMBUwf3ZvdPM2UUxN5gxVCMKQ?e=CSxsbF)               |
-|   ![F1TV_PRO_FHD](https://img.shields.io/badge/F1TV_PRO-FHD-blue) :gb:   |              B4LUQA3EMJ6TJBOPCBBEJ52WZZE7OVQMI2DFIKQ4KI625QM472WN4Q               |
-| ![天翼超高清_UHD](https://img.shields.io/badge/天翼超高清-UHD-gold) :cn: |              B4Q4GHP2BXL6JOIWGQQAE22VMZSEVQIYP4HFVN4QHGBGGZSRHZF5VQ               |
-| ![天翼超高清_UHD](https://img.shields.io/badge/天翼超高清-UHD-gold) :cn: | [B 站观看](https://space.bilibili.com/175358/channel/collectiondetail?sid=754362) |
-|   ![SkySports_HD](https://img.shields.io/badge/SkySports-HD-blue) :gb:   |                  [在线观看](https://racereplay.net/category.php)                  |
+|                                   清晰度                                   |                                    链接                                    |                            说明                             |
+| :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------: |
+| 季前测试![Pre_Season_Test](https://img.shields.io/badge/1080p-高帧率-blue) | [阿里云盘](https://www.aliyundrive.com/s/n6wHoJqHUrL#gk83)<br>提取码: gk83 |                          F1TV 版本                          |
+|   正式赛季![2023_Season](https://img.shields.io/badge/2160p-高帧率-gold)   | [阿里云盘](https://www.aliyundrive.com/s/SQKMpHBn8BX#8gz9)<br>提取码: 8gz9 | 包含 F1TV 多音轨, SkySports 1080p, SkySports 2160p 多个版本 |
 
 ### 比赛信息
 
-|                    0️⃣                     |                      1️⃣                       |                     2️⃣                      |                         3️⃣                         |                     4️⃣                      |
-| :---------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :------------------------------------------------: | :-----------------------------------------: |
-|  [巴林大奖赛](/races/2022/R01.README.md)  | [沙特阿拉伯大奖赛](/races/2022/R02.README.md) | [澳大利亚大奖赛](/races/2022/R03.README.md) | [艾米利亚-罗马涅大奖赛](/races/2022/R04.README.md) |  [迈阿密大奖赛](/races/2022/R05.README.md)  |
-| [西班牙大奖赛](/races/2022/R06.README.md) |   [摩纳哥大奖赛](/races/2022/R07.README.md)   | [阿塞拜疆大奖赛](/races/2022/R08.README.md) |     [加拿大大奖赛](/races/2022/R09.README.md)      |   [英国大奖赛](/races/2022/R10.README.md)   |
-| [奥地利大奖赛](/races/2022/R11.README.md) |    [法国大奖赛](/races/2022/R12.README.md)    |  [匈牙利大奖赛](/races/2022/R13.README.md)  |     [比利时大奖赛](/races/2022/R14.README.md)      |   [荷兰大奖赛](/races/2022/R15.README.md)   |
-| [意大利大奖赛](/races/2022/R16.README.md) |   [新加坡大奖赛](/races/2022/R17.README.md)   |   [日本大奖赛](/races/2022/R18.README.md)   |      [美国大奖赛](/races/2022/R19.README.md)       | [墨西哥城大奖赛](/races/2022/R20.README.md) |
-|  [巴西大奖赛](/races/2022/R21.README.md)  |  [阿布扎比大奖赛](/races/2022/R22.README.md)  |
+|0️⃣|1️⃣|2️⃣|3️⃣|4️⃣|
+|:-:|:-:|:-:|:-:|:-:|
+|[巴林大奖赛](/races/2023/R01.README.md)|
+
+## 疾速争胜
+
+|                          清晰度                           |                                  资源链接                                  |                                                                 说明                                                                 |
+| :-------------------------------------------------------: | :------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| ![2160p_HDR](https://img.shields.io/badge/2160p-HDR-gold) | [阿里云盘](https://www.aliyundrive.com/s/gyN1pNHwgcx#3he7)<br>提取码: 3he7 | S01-S04: ![2160p_HDR](https://img.shields.io/badge/2160p-HDR-gold)<br>S05: ![2160p_HDR](https://img.shields.io/badge/1080p-HDR-gold) |
+
+疾速争胜
+https://www.aliyundrive.com/s/gyN1pNHwgcx
+提取码: 3he7
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
+
+## 过往赛季
+
+|               1               |
+| :---------------------------: |
+| [2022](/races/2022/README.md) |
