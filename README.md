@@ -22,6 +22,7 @@
 | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------: |
 | 季前测试![Pre_Season_Test](https://img.shields.io/badge/1080p-高帧率-blue) | [阿里云盘](https://www.aliyundrive.com/s/n6wHoJqHUrL#gk83)<br>提取码: gk83 |                          F1TV 版本                          |
 |   正式赛季![2023_Season](https://img.shields.io/badge/2160p-高帧率-gold)   | [阿里云盘](https://www.aliyundrive.com/s/SQKMpHBn8BX#8gz9)<br>提取码: 8gz9 | 包含 F1TV 多音轨, SkySports 1080p, SkySports 2160p 多个版本 |
+|在线观看![Xigua](https://img.shields.io/badge/2160p-高帧率-gold)|[西瓜视频](https://www.ixigua.com/7207384447028167180)|SkySports 2160p|
 
 ### 比赛信息
 
@@ -29,16 +30,15 @@
 |:-:|:-:|:-:|:-:|:-:|
 |[巴林大奖赛](/races/2023/R01.README.md)|
 
+---
+
 ## 疾速争胜
 
 |                          清晰度                           |                                  资源链接                                  |                                                                 说明                                                                 |
 | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 | ![2160p_HDR](https://img.shields.io/badge/2160p-HDR-gold) | [阿里云盘](https://www.aliyundrive.com/s/gyN1pNHwgcx#3he7)<br>提取码: 3he7 | S01-S04: ![2160p_HDR](https://img.shields.io/badge/2160p-HDR-gold)<br>S05: ![2160p_HDR](https://img.shields.io/badge/1080p-HDR-gold) |
 
-疾速争胜
-https://www.aliyundrive.com/s/gyN1pNHwgcx
-提取码: 3he7
-点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
+---
 
 ## 过往赛季
 
