@@ -12,6 +12,10 @@
 
 ### 收看途径
 
+新媒体版权：[腾讯体育](https://kbs.sports.qq.com/#100361)
+
+![海报](/media/img/photos/tencent-sports-2023.jpg)
+
 [KartCamp](https://kart.camp/): 信号源为 F1TV，速度和延迟应该是最快的，带中文解说。
 
 ![broadcast](/media/img/broadcast.webp)
@@ -28,7 +32,7 @@
 
 |0️⃣|1️⃣|2️⃣|3️⃣|4️⃣|
 |:-:|:-:|:-:|:-:|:-:|
-|[巴林大奖赛](/races/2023/R01.README.md)|
+|[巴林大奖赛](/races/2023/R01.README.md)|[沙特阿拉伯大奖赛](/races/2023/R02.README.md)|
 
 ---
 
