@@ -12,7 +12,9 @@
 
 ### 收看途径
 
-新媒体版权：[腾讯体育](https://kbs.sports.qq.com/#100361)
+新媒体版权：[腾讯体育](https://kbs.sports.qq.com/#100361) [腾讯视频](https://v.qq.com/x/live/sport.html)
+
+腾讯体育目前免费场次不需要会员，但最高清晰度需要会员。腾讯视频那边登录账号即可享受1080p清晰度。回看的话腾讯体育和腾讯视频都需要各自的会员享受最高清晰度，但理论上安装腾讯视频PC客户端是可以免费享受1080p清晰度的（未验证）。腾讯体育会员和腾讯视频会员是两个不同的会员，后者便宜一些。
 
 ![海报](/media/img/photos/tencent-sports-2023.jpg)
 
@@ -27,6 +29,7 @@
 | 季前测试![Pre_Season_Test](https://img.shields.io/badge/1080p-高帧率-blue) | [阿里云盘](https://www.aliyundrive.com/s/n6wHoJqHUrL#gk83)<br>提取码: gk83 |                          F1TV 版本                          |
 |   正式赛季![2023_Season](https://img.shields.io/badge/2160p-高帧率-gold)   | [阿里云盘](https://www.aliyundrive.com/s/SQKMpHBn8BX#8gz9)<br>提取码: 8gz9 | 包含 F1TV 多音轨, SkySports 1080p, SkySports 2160p 多个版本 |
 |在线观看![Xigua](https://img.shields.io/badge/2160p-高帧率-gold)|[西瓜视频](https://www.ixigua.com/7207384447028167180)|SkySports 2160p|
+|在线观看![Xigua](https://img.shields.io/badge/1080p-SDR-blue)|[腾讯视频](https://v.qq.com/x/search/?q=%E7%BA%B5%E6%83%85F1)|新媒体版权官方回看|
 
 ### 比赛信息
 
