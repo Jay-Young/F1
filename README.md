@@ -55,7 +55,7 @@
 |                                   清晰度                                   |                                    链接                                    |                            说明                             |
 | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------: |
 | 季前测试![Pre_Season_Test](https://img.shields.io/badge/1080p-高帧率-blue) | [阿里云盘](https://www.aliyundrive.com/s/n6wHoJqHUrL#gk83)<br>提取码: gk83 |                          F1TV 版本                          |
-|   正式赛季![2023_Season](https://img.shields.io/badge/2160p-高帧率-gold)   | [阿里云盘](https://www.aliyundrive.com/s/SQKMpHBn8BX#8gz9)<br>提取码: 8gz9 | 包含 F1TV 多音轨, SkySports 1080p, SkySports 2160p 多个版本 |
+|   正式赛季![2023_Season](https://img.shields.io/badge/2160p-高帧率-gold)   | [阿里云盘](https://www.aliyundrive.com/s/SQKMpHBn8BX#8gz9)<br>提取码: 8gz9 | 包含 F1TV 多音轨, SkySports 1080p, SkySports 2160p, 腾讯视频, 五星体育多个版本 |
 |      在线观看![Xigua](https://img.shields.io/badge/2160p-高帧率-gold)      |           [西瓜视频](https://www.ixigua.com/7207384447028167180)           |                       SkySports 2160p                       |
 |      在线观看![Tencent](https://img.shields.io/badge/1080p-SDR-blue)      |           [西瓜视频](https://www.ixigua.com/7211688099745792571)           |                       腾讯体育 1080p                       |
 |       在线观看![Tencent](https://img.shields.io/badge/1080p-SDR-blue)        |       [腾讯视频](https://v.qq.com/x/search/?q=%E7%BA%B5%E6%83%85F1)        |                     腾讯官方回看                      |
@@ -78,7 +78,7 @@
 
 |🍌|🍎|🍊|🍑|🍉|
 |:-:|:-:|:-:|:-:|:-:|
-|[第一期](https://weibo.com/l/wblive/p/show/1022:2321324875987346391125)<br>巴林大奖赛|||||
+|[第一期](https://weibo.com/l/wblive/p/show/1022:2321324875987346391125)<br>巴林大奖赛|[第二期](https://weibo.com/l/wblive/p/show/1022:2321324881040484467049)<br>沙特阿拉伯大奖赛||||
 
 ---
 
