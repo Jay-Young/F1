@@ -18,7 +18,7 @@
 |  ![SkySports_FHD](https://img.shields.io/badge/SkySports-FHD-blue) :gb:  |              [1DRV](https://zjueducn-my.sharepoint.com/:f:/g/personal/jay_young_zju_edu_cn/EkM5gSNQmjBFoinBfwi04bMBUwf3ZvdPM2UUxN5gxVCMKQ?e=CSxsbF)               |
 |   ![F1TV_PRO_FHD](https://img.shields.io/badge/F1TV_PRO-FHD-blue) :gb:   |              B4LUQA3EMJ6TJBOPCBBEJ52WZZE7OVQMI2DFIKQ4KI625QM472WN4Q               |
 | ![天翼超高清_UHD](https://img.shields.io/badge/天翼超高清-UHD-gold) :cn: |              B4Q4GHP2BXL6JOIWGQQAE22VMZSEVQIYP4HFVN4QHGBGGZSRHZF5VQ               |
-| ![天翼超高清_UHD](https://img.shields.io/badge/天翼超高清-UHD-gold) :cn: | [B 站观看](https://space.bilibili.com/175358/channel/collectiondetail?sid=754362) |
+| ![天翼超高清_UHD](https://img.shields.io/badge/天翼超高清-UHD-gold) :cn: | ~~[B 站观看](https://space.bilibili.com/175358/channel/collectiondetail?sid=754362)~~ |
 |   ![SkySports_HD](https://img.shields.io/badge/SkySports-HD-blue) :gb:   |                  [在线观看](https://racereplay.net/category.php)                  |
 
 ### 比赛信息
